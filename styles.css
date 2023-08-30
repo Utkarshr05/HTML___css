@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(228, 205, 212);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+ body{
+    font-family: 'Black Ops One', cursive;
+ }
+
+ .container{
+      padding-right:1rem ;
+      padding-left:1rem ;
+ }
+
+ .container{
+    max-width: 600px;
+    margin:auto;
+ }
+
+ 
